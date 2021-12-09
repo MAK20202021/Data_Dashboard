@@ -1,8 +1,8 @@
-##Data_Dashboard\
+## Data_Dashboard
 This project is to create a web Data Dash Board. This provides the fundamental ideas of Front-end, back-end libraries and the deployment that web app to the cloud.   
 
 ## Project Motivation:
-To get the better idea about the development of a web app and deploy to the cloud, the basic languages such as HTML, CSS, Javascript are essential. For the quick organization, bootstrap library and for getting a better visualization $Plotly is used.
+To get the better idea about the development of a web app and deploy to the cloud, the basic languages such as HTML, CSS, Javascript are essential. For the quick organization, bootstrap library and for getting a better visualization $/Plotly is used.
 
 
 Object Oriented Programming, it is a better idea to create a simple game. I always like to play Tic Tac Toe game from my childhood. Therefore, I chose this simple game to get better understanding of class, objects, methods and attributes. 
