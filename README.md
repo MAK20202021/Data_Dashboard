@@ -19,6 +19,7 @@ The following files are uploaded:
 - myapp.tar.gz
 - routes.py
 - wrangling_scropts.tar.gz
+- Data_Dash_pic.PNG
 
 ## Discussion
 After completing this project, I feel comfortable to build my own web page and deploy it to the cloud. I got the better idea about the HTML, CSS, Javascript.
