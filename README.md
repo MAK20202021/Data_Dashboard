@@ -13,8 +13,12 @@ This project needs HTML, CSS, Javascript. Codes are written in Linux platform.
 ## File Description
 According to the instructor's suggestion code has been modified and it is locally deployed to the Udacity Domain.
 The following files are uploaded:
-
-
+- data.tar.gz
+- index.html
+- myapp.py
+- myapp.tar.gz
+- routes.py
+- wrangling_scropts.tar.gz
 
 ## Discussion
 After completing this project, I feel comfortable to build my own web page and deploy it to the cloud. I have the better idea about the HTML, CSS, Javascript.
