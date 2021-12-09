@@ -15,5 +15,5 @@ The following files are uploaded:
 
 
 ## Discussion
-After completing this project, I feel comfortable to build my own web page and deploy it to the cloud. I have the better idea about the HTML,CSS,Javascript.
+After completing this project, I feel comfortable to build my own web page and deploy it to the cloud. I have the better idea about the HTML, CSS, Javascript.
 
