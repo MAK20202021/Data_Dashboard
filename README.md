@@ -2,22 +2,18 @@
 This project is to create a web Data Dash Board. This provides the fundamental ideas of Front-end, back-end libraries and the deployment that web app to the cloud.   
 
 ## Project Motivation:
-To get the better idea about the development of a web app and deploy to the cloud, the basic languages such as HTML, CSS, Javascript are essential. For the quick organization, bootstrap library and for getting a better visualization $/Plotly is used.
-
-
-Object Oriented Programming, it is a better idea to create a simple game. I always like to play Tic Tac Toe game from my childhood. Therefore, I chose this simple game to get better understanding of class, objects, methods and attributes. 
-This project will provide the platform for Tic Tac Toe game between two players. It checkes all the probabilities of winning the game. It checkes the tie also.
-After completing one round it will ask whether the players want to play again. If it gets the affirmative response it will refresh the game board and
-start the new game.
+To get the better idea about the development of a web app and deploy to the cloud, the basic languages such as HTML, CSS, Javascript are essential. HTML file provides the main content of the web app. CSS file helps to design the web page with style, color. Javascript supports the animation. For the quick organization, bootstrap library and for getting a better visualization Plotly is used in this project. Flask is used as a back-end library. This Data Dashboard project supports all the above fundamentals topics to build a web page related to Data visualiztion from .csv file getting form Worldbank Data website (https://data.worldbank.org/indicator).
 
 ## Acknowledgement:
 This project has been done for Udacity Nano degree program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thank you Udacity for arranging this project to strengthen our knowledge.
 
 ## Installation
-This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
+This project needs HTML, CSS, Javascript. Codes are written in Linux platform.
 
 ## File Description
-The source code is in Game_Tictactoe.ipynb
+The following files are uploaded:
+
 
 ## Discussion
-After completing this project, I feel comfortable about the utilization of Object Oriented Programming. I have the better idea about the class, objects, methods and attributes.    
+After completing this project, I feel comfortable to build my own web page and deploy it to the cloud. I have the better idea about the HTML,CSS,Javascript.
+
